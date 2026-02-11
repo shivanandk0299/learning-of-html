@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(153, 209, 237);
+    color:rgb(23, 24, 23);
+}
+td{
+    border: 2px solid black;
+}
+.red{
+    color: rgb(187, 113, 113);
+
+}
+.bg-yellow{
+    background-color: yellow;
+}
